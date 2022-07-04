@@ -1,0 +1,22 @@
+{
+  "name": "harver-exercise-se",
+  "version": "1.0.0",
+  "description": "Assignemtn for Harver",
+  "main": "index.js",
+  "engines": {
+    "npm": ">=6.14.11",
+    "node": ">=14.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "minimist": "^1.2.6",
+    "node-fetch": "2.6.6"
+  }
+}
